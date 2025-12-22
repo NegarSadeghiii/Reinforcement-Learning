@@ -1,4 +1,5 @@
 Single UAV Path Planning with Deep Q-Network (DQN)
+
 Overview
 
 This project implements a Deep Q-Network (DQN) agent to control a single Unmanned Aerial Vehicle (UAV) navigating in a grid-based environment. The goal of the agent is to learn an optimal navigation policy that allows the UAV to reach a target location while avoiding obstacles and minimizing unnecessary movement.
